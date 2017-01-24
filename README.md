@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
+# IASC 2P02
+## Jaeden Laffey
 
-You can use the [editor on GitHub](https://github.com/jaedenl/jaedenl/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sit amet eleifend massa. In quis leo a sapien imperdiet tempor. Morbi commodo velit id nulla fringilla, ac faucibus elit dictum. Aenean vestibulum nec metus sit amet accumsan. Pellentesque ornare tempus euismod. Vivamus viverra vitae massa vitae dictum. Sed vitae lorem euismod, semper massa eget, vestibulum risus. Aliquam erat volutpat. Vestibulum quis nisi sit amet leo venenatis volutpat. Etiam finibus sit amet diam vel dictum. Sed felis dui, pellentesque et faucibus ac, placerat ut felis.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jaedenl/jaedenl/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Mauris placerat sem quis rhoncus pulvinar. Donec molestie dui porta magna lacinia, eget tincidunt dolor condimentum. Ut convallis faucibus nisi sit amet posuere. Donec aliquam leo arcu, vel commodo ante luctus sed. Pellentesque aliquam felis dapibus, euismod neque a, elementum ante. Aenean varius orci nec leo lobortis tincidunt. Proin ac pharetra nisl. Aenean in ornare felis, ac rutrum erat. Suspendisse potenti. Duis ac feugiat tellus. Ut fringilla ullamcorper sodales. Suspendisse egestas urna non est lacinia, eget cursus ipsum posuere. Aliquam sit amet augue posuere, accumsan lacus in, imperdiet tellus.
