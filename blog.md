@@ -15,6 +15,8 @@ Further proof of Digital Humanities belonging in the English department is the i
 
 Later in the article, Kirschenbaum gives a total of 6 examples of why and how Digital Humanities fits into the English department.  I found 2 of them to be particularly pertinent.
 
+As I mentioned before, most of the article is spent discussing the history behind the  name Digital Humanities. For this reason I chose to analyse only the (long) paragraph in which Kirschenbaum argues for Digital Humanities in English departments using Voyant.  The illustrations that were generted are below.  
+
 <img src="images/DHScreenshot1_1.png" width="400" height="300">
 <img src="images/DHScreenshot2_1.png" width="400" height="300">
 
