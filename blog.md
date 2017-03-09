@@ -32,8 +32,8 @@ Milliot, Jim. "E-Books Gained, Online Retailers Slipped in 2014: New Nielsen Sur
 Flanders, Julia. "The Productive Unease of 21st-century Digital Scholarship." The Productive Unease of 21st-century Digital Scholarship. Digital Humanities Quarterly, n.d. Web. 05 Mar. 2017.
 
 
-![](images/DHScreenshot1.png)
-![](images/DHScreenshot2.png)
+![](images/DHScreenshot1.png) width="400" height="300"
+![](images/DHScreenshot2.png) width="400" height="300"
 
 
 [What Is Digital Humanities and What’s It Doing in English Departments?](http://dhdebates.gc.cuny.edu/debates/text/38)
