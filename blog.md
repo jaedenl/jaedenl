@@ -33,7 +33,7 @@ Flanders, Julia. "The Productive Unease of 21st-century Digital Scholarship." Th
 
 
 ![](images/DHScreenshot1.png)
-![](images/DHScreenshot2.png  
+![](images/DHScreenshot2.png)
 
 
 [What Is Digital Humanities and What’s It Doing in English Departments?](http://dhdebates.gc.cuny.edu/debates/text/38)
