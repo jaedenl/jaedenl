@@ -8,4 +8,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sit amet eleifend m
 
 ### Blog Posts
 
-[Continue Reading](blog)
+[Read my blog post here](blog)
