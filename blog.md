@@ -7,6 +7,9 @@
 
 Despite the title of the article, Kirschenbaum spends much of his writing setting a definition to Digital Humanities and describing how the name came to be.  He devotes only the last paragraph to discussing Digital Humanities place in English departments.  Kirschenbaum found a definition of Digital Humanities though Wikipedia as “a field of study, research, teaching, and invention concerned with the intersection of computing and the disciplines of the humanities.”  This description describes digital humanities well.  The field was originally referred to as “humanities computing”, but the name Digital Humanities better encapsulated the field as the name put more emphasis on the “humanities” aspect and creating a better image of the intersection between the two fields, moving away from implying the simple digitization of the humanities.  
 
+<img src="images/DHScreenshot1.png" width="400" height="300">
+<img src="images/DHScreenshot2.png" width="400" height="300">
+
 Digital Humanities has been subjected to an influx in popularity over the past few years, and the field that “began as a term of consensus among a relatively small group of researchers, is now backed on a growing number of campuses by a level of funding, infrastructure, and administrative commitments that would have been unthinkable even a decade ago.” (Kirschenbaum).
 
 After describing how Digital Humanities were established and the events that helped to shape the field, Kirschenbaum addresses the notion of including Digital Humanities in schools, particularly in the English department.  His main argument is that Digital Humanities do belong in English departments.  This is a statement that I agree with. I believe that the digital tools we have access to in this day and age have the ability to greatly help many students to learn more effectively and efficiently.  I would argue, however, that the inclusion of Digital Humanities could possess the ability to change the way English departments function dramatically.  With further integration of technology into the English department, changes could occur such as shifting from print books to e-books, libraries being turned into online archives, and school work being distributed and submitted all online.  This may be difficult to adapt to for less tech-savvy individuals, but will be easily adopted by the younger generation who have grown up with this technology.  As digital media literacy is becoming a bigger part of the classroom, this shift will make schooling much easier and more accessible for our younger students.
@@ -32,10 +35,6 @@ TDSB. “TDSB ICT Standards - Digital Learning for Kindergarten to Grade 12”. 
 Milliot, Jim. "E-Books Gained, Online Retailers Slipped in 2014: New Nielsen Survey of Book-Buyers Found E-Books to Have a 15 % Share of Sales Last Year." Publishers Weekly, no. 13, 2015, p. 4. EBSCOhost, proxy.library.brocku.ca/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=edsglr&AN=edsgcl.409069202&site=eds-live&scope=site.
 
 Flanders, Julia. "The Productive Unease of 21st-century Digital Scholarship." The Productive Unease of 21st-century Digital Scholarship. Digital Humanities Quarterly, n.d. Web. 05 Mar. 2017.
-
-
-![](images/DHScreenshot1.png) width="400" height="300"
-![](images/DHScreenshot2.png) width="400" height="300"
 
 
 [What Is Digital Humanities and What’s It Doing in English Departments?](http://dhdebates.gc.cuny.edu/debates/text/38)
