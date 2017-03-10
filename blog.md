@@ -3,7 +3,7 @@
 ##### IASC 2P02
 ##### March 9th 2017
 
-### Does Digital Humanities Belong in English Departments? - An Argumentative Response
+### What Is Digital Humanities Doing in English Departments? - An Argumentative Response
 
 Despite the title of the article, Kirschenbaum spends much of his writing setting a definition to Digital Humanities and describing how the name came to be.  He devotes only the last paragraph to discussing Digital Humanities place in English departments.  Kirschenbaum found a definition of Digital Humanities though [Wikipedia](https://en.wikipedia.org/wiki/Digital_humanities) as “a field of study, research, teaching, and invention concerned with the intersection of computing and the disciplines of the humanities.”  This description describes digital humanities well.  The field was originally referred to as “humanities computing”, but the name Digital Humanities better encapsulated the field as the name put more emphasis on the “humanities” aspect and creating a better image of the intersection between the two fields, moving away from implying the simple digitization of the humanities.  
 
