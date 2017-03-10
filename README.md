@@ -2,7 +2,7 @@
 
 ### About Me
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sit amet eleifend massa. In quis leo a sapien imperdiet tempor. Morbi commodo velit id nulla fringilla, ac faucibus elit dictum. Aenean vestibulum nec metus sit amet accumsan. Pellentesque ornare tempus euismod. Vivamus viverra vitae massa vitae dictum. Sed vitae lorem euismod, semper massa eget, vestibulum risus. Aliquam erat volutpat. Vestibulum quis nisi sit amet leo venenatis volutpat. Etiam finibus sit amet diam vel dictum. Sed felis dui, pellentesque et faucibus ac, placerat ut felis.
+I am a second year student in Interactive Arts and Science at Brock and I'm also taking a business minor.   I'm really interested in sports media, music, and film.  I'm also a huge Raptors fan.  
 
 ![](images/IASC.png)
 
