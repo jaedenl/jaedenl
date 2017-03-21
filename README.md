@@ -2,7 +2,7 @@
 
 ### About Me
 
-I am a second year student in Interactive Arts and Science at Brock and I'm also taking a business minor.   I'm really interested in sports media, music, and film.  I'm also a huge Raptors fan.  
+I am a second year student in Interactive Arts and Science at Brock and I'm also taking a business minor.   I'm really interested in sports media, music, and film and I'm a Raptors fan.  
 
 ![](images/IASC.png)
 
