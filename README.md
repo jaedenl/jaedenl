@@ -9,3 +9,6 @@ I am a second year student in Interactive Arts and Science at Brock and I'm also
 ### Blog Posts
 
 [Read my blog post here](blog)
+
+### Solo Presentation
+[Slide Deck](reveal_working/index.html)
