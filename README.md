@@ -11,4 +11,4 @@ I am a second year student in Interactive Arts and Science at Brock and I'm also
 [Read my blog post here](blog)
 
 ### Solo Presentation
-[Slide Deck](reveal_working/index.html)
+[Slide Deck](reveal_final_jaeden/index.html)
