@@ -6,9 +6,12 @@ I am a second year student in Interactive Arts and Science at Brock and I'm also
 
 ![](images/IASC.png)
 
-### Blog Posts
+### Academic Blog
 
 [Read my blog post here](blog)
 
-### Solo Presentation
-[Slide Deck](reveal_final_jaeden/index.html)
+### Research Presentation
+[The Forgotten VideoDiscs](reveal_final_jaeden/index.html)
+
+### Collaborative Presentation
+[Storyboard.js](https://brocku-my.sharepoint.com/personal/ng15fj_brocku_ca/_layouts/15/WopiFrame.aspx?docid=0fbbb61338617493da7bc80063e958e03&authkey=AbQduR6YxP174-JkBwFUPMs&action=view)
