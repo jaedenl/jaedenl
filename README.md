@@ -6,6 +6,14 @@ I am a second year student in Interactive Arts and Science at Brock and I'm also
 
 ![](images/IASC.png)
 
+### Featured Project
+
+### "Title"
+
+**Abstract**
+
+**Research Process**
+
 ### Academic Blog
 
 [What Is Digital Humanities Doing in English Departments?](blog)
@@ -14,4 +22,4 @@ I am a second year student in Interactive Arts and Science at Brock and I'm also
 [The Forgotten VideoDiscs](reveal_final_jaeden/index.html)
 
 ### Collaborative Presentation
-[Storyboard.js](https://brocku-my.sharepoint.com/personal/ng15fj_brocku_ca/_layouts/15/WopiFrame.aspx?docid=0fbbb61338617493da7bc80063e958e03&authkey=AbQduR6YxP174-JkBwFUPMs&action=view)
+[Storyboard.js (feat. Caleb, Nick, & Ian)](IASC2P02_GroupPresentation.pdf)
