@@ -8,7 +8,7 @@ I am a second year student in Interactive Arts and Science at Brock and I'm also
 
 ### Academic Blog
 
-[Read my blog post here](blog)
+[What Is Digital Humanities Doing in English Departments?](blog)
 
 ### Research Presentation
 [The Forgotten VideoDiscs](reveal_final_jaeden/index.html)
