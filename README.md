@@ -8,7 +8,7 @@ I am a second year student in Interactive Arts and Science at Brock and I'm also
 
 ### Featured Project
 
-### "Title"
+### "[The Forgotten VideoDiscs: Revised]()"
 
 **Abstract**
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent at lorem ultricies, volutpat velit vel, facilisis turpis. Donec id consectetur risus, vel commodo sapien. Nam gravida luctus ante non ornare. Pellentesque finibus metus quis diam tempus, ac scelerisque ipsum volutpat. Donec id cursus dolor, at ultrices tellus. Fusce nec mauris nec mi tempus accumsan. Nam venenatis euismod quam, varius iaculis magna viverra non. Vestibulum dapibus fringilla imperdiet.
