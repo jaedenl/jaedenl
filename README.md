@@ -23,4 +23,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent at lorem ultri
 [The Forgotten VideoDiscs](reveal_final_jaeden/index.html)
 
 ### Collaborative Presentation
-[Storyboard.js (feat. Caleb, Nick, & Ian)](IASC2P02_GroupPresentation.pdf)
+[Storymap.js (feat. Caleb, Nick, & Ian)](IASC2P02_GroupPresentation.pdf)
