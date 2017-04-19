@@ -8,7 +8,7 @@ I am a second year student in Interactive Arts and Science at Brock and I'm also
 
 ### Featured Project
 
-### "[The Forgotten VideoDiscs: Revised]()"
+### [The Forgotten VideoDiscs: Revised](reveal_final_revised_jaeden/index.html)
 
 ![](images/VideoDisc_Header.jpg)
 
