@@ -13,16 +13,21 @@ I am a second year student in Interactive Arts and Science at Brock and I'm also
 ![](images/VideoDisc_Header.jpg)
 
 **Abstract**
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent at lorem ultricies, volutpat velit vel, facilisis turpis. Donec id consectetur risus, vel commodo sapien. Nam gravida luctus ante non ornare. Pellentesque finibus metus quis diam tempus, ac scelerisque ipsum volutpat. Donec id cursus dolor, at ultrices tellus. Fusce nec mauris nec mi tempus accumsan. Nam venenatis euismod quam, varius iaculis magna viverra non. Vestibulum dapibus fringilla imperdiet.
+My research presentation was about the long-lost video format; Capacitance VideoDiscs, RCA’s CED (Capacitance Electronic Disc) and JVC’s VHD (Video High Density).  I am very interested in consumer media & entertainment (particularly music and film), as well as the evolution of media technologies that we use.  For this reason, I wanted to focus on a forgotten video format. I originally was planning on delivering my presentation on Sony’s Betamax and new uses for cassette tapes, but during my research, I came across an article online mentioning Capacitance VideoDiscs and the uniqueness and rarity of this format and the technology behind it instantly captured my interest. The VHD & CED were record-style discs that used the method of Capacitance to store and playback audio and video.  Capacitance is the ability of two adjacent conductors to store electric charge.  In the videodisc, the adjacent conductors are the carbon-loaded disc and the titanium electrode in the stylus that reads the disc like a record.  These discs and the machines used to play them were quite cheap to manufacture, contained less complicated machinery and were sold for prices almost half of VHS, thus making them an appealing alternative video format.  They were (and still are) the only 2 formats to use this technology, which is what makes them quite unique.  Prior to the research that I did for this assignment I had never heard of Capacitance VideoDiscs, but what I have learned about the technology taught me a lot and made me very curious as to why it didn’t succeed, how we could have built upon this technology, and the possible alternative uses of the technology.  
 
-**Research Process**
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent at lorem ultricies, volutpat velit vel, facilisis turpis. Donec id consectetur risus, vel commodo sapien. Nam gravida luctus ante non ornare. Pellentesque finibus metus quis diam tempus, ac scelerisque ipsum volutpat. Donec id cursus dolor, at ultrices tellus. Fusce nec mauris nec mi tempus accumsan. Nam venenatis euismod quam, varius iaculis magna viverra non. Vestibulum dapibus fringilla imperdiet.
+
+**Revision**
+In the feedback that I was given, it came to my attention that my original presentation contained too much writing on screen, and this compromised the communication skills of the Pecha Kucha presentation due to on-screen clutter.  To solve this I added presentation notes to my reveal.js slides, (which are accessed by pressing the “s” key while the presentation is open) and I reformatted each slide to contain as little text as possible while still being able to convey all relevant information to the audience.  My presentation notes now contain relevant presentation information for me to relay to the audience during the presentation, and allow for more efficient oral and visual communication of the material to the audience.  
+In my feedback for the project, it was also brought to my attention that I had re-used the same images a few times. This created an issue because when presenting, the lack of visual accommodation made the presentation less visually stimulating for the audience and made it harder to follow along and fully understand the content. As a result of this I ended up finding some new photos to use in my presentation that better reflected the topics at hand, and I created some graphics in Photoshop to visually demonstrate the points that are being discussed in my dialogue of the presentation. I also re-formatted the layouts of my slides to better showcase my research visually and reflect the information I was trying to convey on each slide. After this, I re-arranged the slides in a way that better explains the CED and VHD by first talking introducing the product, then giving information about the background of the product, its development, and how the tech worked before giving details (such as size, storage capacity, etc) about the videodiscs themselves.  
+
 
 ### Academic Blog
 [What Is Digital Humanities Doing in English Departments?](blog)
 
 ### Research Presentation
-[The Forgotten VideoDiscs](reveal_final_jaeden/index.html)
+[The Forgotten VideoDiscs (Revised)](reveal_final_revised_jaeden/index.html)
+
+[The Forgotten VideoDiscs (Original)](reveal_final_jaeden/index.html)
 
 ### Collaborative Presentation
 [Storymap.js (feat. Caleb, Nick, & Ian)](IASC2P02_GroupPresentation.pdf)
