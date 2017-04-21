@@ -38,6 +38,13 @@ In my feedback for the project, it was also brought to my attention that I had r
 
 The digital humanities tool that I had the opportunity to use for our collaborative project was Storyboard.js, by Knight Labs.  This tool allows users to display information in a linear narrative overtop of a map.  Storymap.js allows users to pick pinpoints on a map and create slides with text, images, and embedded links in a PowerPoint style layout.  Each slide is attached to a location, and as the slides progress the locations on the map change accordingly to give a visual geographic representation of information as the user progresses forwards in their story or presentation.  To test out the Storymap.js, I created for myself a basic presentation of all of the places I’ve travelled to, in order to familiarize myself with how to use the tool.  After that, our group created a Storymap for our in-class presentation, which we based on the novel “Underground to Canada” by Barbara Smucker, which retold the storyline of the book, following escaped slaves slide-by-slide as they made their way from Virginia all the way to St. Catharines.  
 
+**Screenshots From Our Presentation**
+
+![](images/GroupPresPic1.png)
+![](images/GroupPresPic2.png)
+![](images/GroupPresPic3.png)
+
+
 **Collaboration Statement**
 
 Collaboration can greatly enrich my academic thinking.  Working in a group allows for members to receive feedback for the work they’ve done and fix and errors they may have made or overlooked.  Working in a group also allows for the sharing of more creative ideas, as working with others allows for more input for solving problems as people with different opinions, ideas, and methodologies to intermingle and share their thoughts, allowing for ideas that one person might not have been able to think of by themselves.   
